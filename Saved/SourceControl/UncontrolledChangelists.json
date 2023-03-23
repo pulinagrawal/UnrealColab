@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/pja5407/Downloads/Menus/Content/FirstPersonBP/Blueprints/HUD.uasset",
+				"/Users/pja5407/Downloads/Menus/Content/StartScreen.uasset",
+				"/Users/pja5407/Downloads/Menus/Content/FirstPersonBP/Blueprints/MainMenu.uasset",
+				"/Users/pja5407/Downloads/Menus/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
